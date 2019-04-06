@@ -9,7 +9,7 @@ interval (in seconds) specified by `-p` option (60 by default).
 	-b CHARCODE		ball (written value), oct. 0-377
 	-h FILENAME		hole (name of file which will be written)
 	-p INTEGER		pause
-	-u				specified uuid instead of device label
+	-u			uuid specified instead of device label
 	-d 			run as daemon
 	-v			print verbose messages
 	--			display this help and exit

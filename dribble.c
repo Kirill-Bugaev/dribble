@@ -78,7 +78,7 @@ usage(const char *pn)
 			"  -b CHARCODE \tball (written value), oct. 0-377\n"
 			"  -h FILENAME\thole (name of file which will be written)\n"
 			"  -p INTEGER\tpause\n"
-			"  -u\tspecified uuid instead of device label\n"
+			"  -u\tuuid specified instead of device label\n"
 			"  -d\trun as daemon\n"
 			"  -v\tprint verbose messages\n"
 			"  --\tdisplay this help and exit\n", 
