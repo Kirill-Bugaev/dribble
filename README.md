@@ -2,7 +2,7 @@
 
 Usage: `dribble [OPTION]... PARTITION`
 
-Write charecter specified by `-b` option ('\0' by default) in file
+Write charecter specified by `-b` option (`'\0'` by default) in file
 specified by `-h` option ('.hole' by default) on `PARTITION` each time
 interval (in seconds) specified by `-p` option (60 by default).
 
